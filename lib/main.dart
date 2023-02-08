@@ -1,10 +1,10 @@
-import 'package:assignment_app/demo.dart';
+// import 'package:assignment_app/demo.dart';
 import 'package:assignment_app/home_page.dart';
-import 'package:assignment_app/l10p2.dart';
-import 'package:assignment_app/login.dart';
+// import 'package:assignment_app/l10p2.dart';
+// import 'package:assignment_app/login.dart';
 import 'package:flutter/material.dart';
-import 'l10p1.dart';
-import 'login_page.dart';
+// import 'l10p1.dart';
+// import 'login_page.dart';
 import 'dart:async';
 
 void main() {
